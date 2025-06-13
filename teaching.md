@@ -7,7 +7,7 @@ Teaching is a core component of the work conducted by members of the Beachlab an
 A set of workshops were put together for the regional Geography Teachers Association Conference. They are a work in progress and will be updated occasionally based on requests, feedback, and time. If you have any suggestions or request email Dan. 
 
 
-[Dr Daniel Harris]([https://researchers.uq.edu.au/researcher/16758](https://geo-dan.github.io/Geography_teaching_tools/)
+[Geography Teaching Tools and Workshops](https://geo-dan.github.io/Geography_teaching_tools/)
 
 ## Teaching at UQ
 
