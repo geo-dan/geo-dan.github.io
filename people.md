@@ -51,7 +51,7 @@ Aponi Langsford-Mann
 
 Alyssa Silbey
 
-# Honours Students
+<u>Honours Students</u>
 
 Avigna Kumar
 
