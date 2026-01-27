@@ -1,8 +1,6 @@
 # Data Sets
 
 
-## Media Comment/Press Releases
-
 Below are data sets that have been published and are free to use. You can find the publications in the Media and Publication page.
 
 **Coastal Geomorphology and Change Data**
