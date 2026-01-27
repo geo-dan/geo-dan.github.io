@@ -12,6 +12,8 @@ We employ a suite of data collection methods and models to conduct this research
 
 For students who may be interested in research projects within the Beachlab see the list [here](./student_projects.html)
 
+Dan will also sporadically document field trips on Instragram. You can find him at [dan_coastal](https://www.instagram.com/dan_coastal/).
+
 **Menu**
 
 [People](./people.html)
