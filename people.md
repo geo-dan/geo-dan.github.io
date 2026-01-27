@@ -17,7 +17,8 @@ Email: daniel.harris@uq.edu.au
 
 ## Academic Staff
 
-[Dr Dylan Cowley](https://environment.uq.edu.au/profile/13253/dylan-cowley)
+[Meredith Roe](https://environment.uq.edu.au/profile/13674/meredith-roe)
+
 
 ## PhD Candidates
 
@@ -35,11 +36,7 @@ With the Marine Spatial Ecology Lab: Greta Sartori, Hannah Allen, Roima Paewai-H
 
 ## Research Students (Honours and Masters)
 
-Aponi Langsford-Mann
 
-Alyssa Silbey
-
-Avigna Kumar
 
 ## Past Beachlab Members and Collaborators
 
@@ -47,3 +44,15 @@ PhD Students
 
 Yongjing Mao (UNSW)
 Tania Kenyon (MSEL, UQ)
+
+Masters Students
+
+Aponi Langsford-Mann
+
+Alyssa Silbey
+
+# Honours Students
+
+Avigna Kumar
+
+
