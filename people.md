@@ -34,8 +34,6 @@ Josh Reid
 
 Julian Gueho
 
-With Civil Engineering: Dongfang Liu ,Wen Deng
-
 With the Marine Spatial Ecology Lab: Greta Sartori
 
 ## Research Students (Honours and Masters)
