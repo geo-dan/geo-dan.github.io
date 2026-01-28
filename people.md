@@ -45,31 +45,47 @@ None for 2026!
 ### PhD Students
 
 Dr Dylan Cowley (UQ)
+
 Dr Yongjing Mao (UNSW)
+
 Dr Dongfang Liu
+
 Dr Wen Deng
 
 ### Masters Students
 
 Aponi Langsford-Mann
+
 Alyssa Silbey
+
 Tarkin Pasin
+
 Margrethe Zieffert
+
 Elysia Andrews
 
 ### Honours Students
 
 Cayden Proudfoot
+
 Emma Pietsch
+
 Jack Carter
+
 Avigna Kumar
+
 Chantel Say
+
 Oxana Repina
+
 Jennifer Secker
+
 Peta Morton
 
 ### Undergraduate Students
 
 David Edgerton
+
 Sophie Flottman
+
 Stell Knief
