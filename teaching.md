@@ -28,6 +28,7 @@ ENVM3200/7200 (Sem 1): Coastal Environments and Processes (coordinator)
 ERTH3212 (Sem 2): Coral Reefs: Past, Present, Future (coordinator)
 
 **Past Courses**
+
 MARS2001 (Sem 1): Practical Marine Science
 
 GEOS2013 (Sem 2): Biogeography and Geomorphology
