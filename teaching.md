@@ -11,7 +11,7 @@ A set of workshops were put together for the regional Geography Teachers Associa
 
 ## Teaching at UQ
 
-Dan teaches a number of courses at The University of Queensland and is also the Deputy Teaching and Learning Director and Geographical Sciences coordinator for UQ.
+Dan teaches a number of courses at The University of Queensland and is also the Deputy Teaching and Learning Director and Geographical Sciences coordinator at the School of Environment.
 
 **Current Course List**
 
