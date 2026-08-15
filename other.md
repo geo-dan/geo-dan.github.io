@@ -2,6 +2,8 @@
 
 There is a large world beyond academia....
 
+[Occassional instagram posts and stories](https://www.instagram.com/dan_coastal/)
+
 ## New Music Fridays
 
 Some background....TL:DR links below to some playlists that are great.
