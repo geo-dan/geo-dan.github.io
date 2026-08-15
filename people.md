@@ -38,7 +38,9 @@ With the Marine Spatial Ecology Lab: Greta Sartori
 
 ## Research Students (Honours and Masters)
 
-None for 2026!
+Devan Zhao
+
+Carson Lau
 
 ## Past Beachlab Members and Collaborators
 
